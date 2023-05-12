@@ -313,7 +313,7 @@
 //!
 //! #### `FromValue` trait
 //!
-//! This trait is reexported from **mysql_common** create. Please refer to its
+//! This trait is reexported from **mysql_common** crate. Please refer to its
 //! [crate docs][mysql_common docs] for the list of supported conversions.
 //!
 //! Trait offers conversion in two flavours:
